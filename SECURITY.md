@@ -3,6 +3,7 @@
     SPDX-License-Identifier: CC-BY-SA-4.0
 -->
 
+
 # Security Policy
 
 This document includes information about the vulnerability reporting, patch,
